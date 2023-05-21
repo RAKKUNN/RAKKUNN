@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=RAKKUNN&fontSize=70&animation=twinkling)
 
-<p align="center">kr en</p>
+<p align="center">Sophomore At CSE</p>
 
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 
