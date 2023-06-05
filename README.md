@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=RAKKUNN&fontSize=70&animation=twinkling)
 
-<p align="center">Sophomore At CSE</p>
+<p align="center">Developer</p>
 
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 
@@ -29,5 +29,5 @@
   <br>
       Chungnam national university
   <br>
-      2020.3 - current
+      2020.3 - current(sophomore)
 </p>
