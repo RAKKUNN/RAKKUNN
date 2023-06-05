@@ -24,3 +24,10 @@
   <a href="pencil2948@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pencil2948@gmail.com"/></a>
 </p>
 <br>
+<p>
+  Education
+  <br>
+      Chungnam national university
+  <br>
+      2020.3 - current
+</p>
