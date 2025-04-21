@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gilab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab" /><br>
     <img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim" />
   </a>
 </p>
