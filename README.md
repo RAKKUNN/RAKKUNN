@@ -27,11 +27,15 @@
 <p>
   Education
   <br>
-      Chungnam national university
+      B.S.
   <br>
-      2020.03 - current(Junior)
+      CNU (Computer Science & Engineering)
   <br>
-      Convergence Security Research Center
+      2020.03. - 2026.02.
   <br>
-      2023.03 - current
+      M.S.
+  <br>
+      CNU (Computer Engineering - Network & Security)
+  <br>
+      2026.03. ~
 </p>
