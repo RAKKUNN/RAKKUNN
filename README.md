@@ -1,24 +1,126 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=RAKKUNN&fontSize=70&animation=twinkling)
+<div align="center">
 
-<p align="center">Research</p>
+# RAKKUNN
 
-<h3 align="center">🛠 Tech Stacks 🛠</h3>
+**System Security Researcher**
 
-<p align="center"> Techs that I can use</p>
+`TEE` · `System Security` · `Trusted Computing`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim" />
-  </a>
-</p>
+Exploring the boundaries of trusted execution and system-level security.
+
+</div>
 
 <br>
 
-<h3 align="center"> Contact Me  </h3>
+<!-- ============================================================ -->
+<!--                      BENTO GRID START                        -->
+<!-- ============================================================ -->
+
+<table>
+<tr>
+
+<!-- ─── LEFT: Metrics Overview ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Overview</h3>
 <p align="center">
-  <a href="https://velog.io/@rakkunn/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@pencil2948"/></a>&nbsp
-  <a href="https://www.instagram.com/wood_in_im/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wood_in_im/"/></a>&nbsp
-  <a href="woojinim64@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pencil2948@gmail.com"/></a>
+  <img src="./github-metrics/base.svg" alt="Metrics Base" width="100%" />
 </p>
+
+</td>
+
+<!-- ─── RIGHT: Languages ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Languages</h3>
+<p align="center">
+  <img src="./github-metrics/languages.svg" alt="Languages" width="100%" />
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ─── LEFT: Contribution Calendar ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">📅 Contributions</h3>
+<p align="center">
+  <img src="./github-metrics/isocalendar.svg" alt="Isocalendar" width="100%" />
+</p>
+
+</td>
+
+<!-- ─── RIGHT: Coding Habits ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">🕐 Coding Habits</h3>
+<p align="center">
+  <img src="./github-metrics/habits.svg" alt="Habits" width="100%" />
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ─── LEFT: Research Interests ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">🔬 Research Interests</h3>
+
+&nbsp;
+
+**Trusted Execution Environments**
+<br>ARM TrustZone · Intel SGX · Confidential Computing
+
+**System Security**
+<br>Kernel hardening · Secure boot · Firmware analysis
+
+**Low-level Security**
+<br>Memory safety · Binary analysis · Exploit mitigation
+
+&nbsp;
+
+</td>
+
+<!-- ─── RIGHT: Tech Stack ─── -->
+<td width="50%" valign="top">
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+&nbsp;
+
+```text
+Languages      C · Python · Assembly
+Environments   Linux · Embedded Systems
+Security       GDB · QEMU · IDA · Ghidra
+VCS            Git · GitHub · GitLab
+Editor         VSCode · Vim
+```
+
+&nbsp;
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ─── FULL WIDTH: Contact ─── -->
+<td colspan="2" align="center">
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:woojinim64@gmail.com)&nbsp;&nbsp;
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/rakkunn)&nbsp;&nbsp;
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@rakkunn/posts)
+
+<sub>📌 Open to collaboration on system security research</sub>
+
+<br>
+
+</td>
+
+</tr>
+</table>
