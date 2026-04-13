@@ -53,37 +53,3 @@ jobs:
           plugin_languages_layout: compact
           plugin_languages_limit: 8
           plugin_languages_threshold: 1%
-
-  # ── 3. Contribution isocalendar ──
-  isocalendar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rakkunn
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-  # ── 4. Coding habits (time distribution) ──
-  habits:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rakkunn
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          config_timezone: Asia/Seoul

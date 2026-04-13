@@ -42,29 +42,6 @@ Exploring the boundaries of trusted execution and system-level security.
 </tr>
 <tr>
 
-<!-- ─── LEFT: Contribution Calendar ─── -->
-<td width="50%" valign="top">
-
-<h3 align="center">📅 Contributions</h3>
-<p align="center">
-  <img src="./github-metrics/isocalendar.svg" alt="Isocalendar" width="100%" />
-</p>
-
-</td>
-
-<!-- ─── RIGHT: Coding Habits ─── -->
-<td width="50%" valign="top">
-
-<h3 align="center">🕐 Coding Habits</h3>
-<p align="center">
-  <img src="./github-metrics/habits.svg" alt="Habits" width="100%" />
-</p>
-
-</td>
-
-</tr>
-<tr>
-
 <!-- ─── LEFT: Research Interests ─── -->
 <td width="50%" valign="top">
 
