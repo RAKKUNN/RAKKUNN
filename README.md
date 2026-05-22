@@ -92,6 +92,4 @@
 </div>
 
 <br>
-<div align="center">
-  <sub>📌 Open to collaboration on system security research</sub>
 </div>
