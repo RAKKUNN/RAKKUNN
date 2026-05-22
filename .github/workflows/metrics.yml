@@ -39,6 +39,7 @@ jobs:
   # ── 2. Most used languages ──
   languages:
     runs-on: ubuntu-latest
+    needs: base
     permissions:
       contents: write
     steps:
