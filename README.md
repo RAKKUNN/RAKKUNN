@@ -59,8 +59,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakkunn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RAKKUNN's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkunn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="./github-metrics/base.svg" alt="Base Stats" />
+  <img src="./github-metrics/languages.svg" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
@@ -69,14 +69,10 @@
 
 <br>
 
-### 🐍 Contribution Graph
+### 📊 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakkunn/rakkunn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakkunn/rakkunn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rakkunn/rakkunn/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="./github-metrics/isocalendar.svg" alt="Contribution Graph" />
 </div>
 
 <br>
