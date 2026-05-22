@@ -19,8 +19,8 @@ on:
 
 jobs:
 
-  # ── 1. Base overview (commits, PRs, issues, stars) ──
-  base:
+  # ── Generate metrics ──
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -35,14 +35,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_sections: base
-
-  # ── 2. Most used languages ──
-  languages:
-    runs-on: ubuntu-latest
-    needs: base
-    permissions:
-      contents: write
-    steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/languages.svg
